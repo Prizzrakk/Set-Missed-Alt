@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Set Missed Alt\n"
+"POT-Creation-Date: 2023-07-17 16:41+0600\n"
+"PO-Revision-Date: 2023-07-17 16:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: set-missed-alt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: set-missed-alt.php:119 set-missed-alt.php:144
+msgid "Looks like there are no files without alts... )))"
+msgstr "Похоже, файлов без alt нету )))"
+
+#: set-missed-alt.php:120
+msgid "Done!"
+msgstr "Готово!"
+
+#: set-missed-alt.php:145
+msgid "Done! Please reload current page."
+msgstr "Готово! Пожалуйста, обновите текущую страницу."
+
+#: set-missed-alt.php:167
+msgid "Set all missed alt tag as post_title."
+msgstr "Установить отсутствующие alt как post_title."
+
+#: set-missed-alt.php:167
+msgid "Don't forget to backup your DB first!"
+msgstr "Не забудьте сначала сделать резервную копию базы данных!"
+
+#: set-missed-alt.php:168
+msgid ""
+"Thank you for using \"Add missed Alt\". It would be great if you <a href="
+"\"https://github.com/Prizzrakk\" target=\"_blank\">support</a> the author!"
+msgstr ""
+"Спасибо, что используете \"Add missed Alt\". Будет замечательно, если вы <a "
+"href=\"https://github.com/Prizzrakk\" target=\"_blank\">поддержите</a> "
+"автора!"
+
+#: set-missed-alt.php:169
+msgid "Check missed ALT"
+msgstr "Проверить отсутствующие Alt"
+
+#: set-missed-alt.php:170
+msgid "Add missed ALT"
+msgstr "Добавить отсутствущие Alt"
+
+#: set-missed-alt.php:172
+msgid "Please wait...."
+msgstr "Пожалуйста, подождите...."
+
+#: set-missed-alt.php:190
+msgid "Save"
+msgstr "Сохранить"
+
+#: set-missed-alt.php:253
+msgid "Support"
+msgstr "Поддержать"
+
+#. Plugin Name of the plugin/theme
+msgid "Set Missed Alt"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple, fast and practical Plugin that allows you easily set/change alt tags "
+"for images."
+msgstr ""
+"Простой, быстрый и практичный плагин, который позволяет легко устанавливать/"
+"изменять alt-теги для изображений."
+
+#. Author of the plugin/theme
+msgid "Prizzrak"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/Prizzrakk"
+msgstr ""
